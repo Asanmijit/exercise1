@@ -1,0 +1,19 @@
+<body>
+    <div style="
+              background-color: #222f3e;
+              text-align: center;
+              padding: 40px;">
+        <img src='https://ts3.cn.mm.bing.net/th?id=OIP-C.gULKncVAgbRDDdiIt3TnHQHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&dpr=1.7&pid=3.1&rm=2' alt="艾散" width="80px" height="80px">
+    </div>
+    <div style="
+              max-width: 700px;
+              margin: 30px auto;
+              text-align: center;
+              padding: 15px;
+              line-height: 1;
+              color: white;
+              ">
+        <p>欢迎您进入我的网站</p>
+        <p>NICE TO MEET YOU!</p>
+        <p>hahaha, new pages</p>
+    </div>
